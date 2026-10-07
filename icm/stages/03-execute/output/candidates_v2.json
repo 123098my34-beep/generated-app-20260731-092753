@@ -1,0 +1,34 @@
+[
+  {
+    "id": "csv-cleaner",
+    "demand": 8,
+    "d_demand": "VERIFIED-adjacent: Gumroad buyer data (insightraider.com, Aug 4 2026): developers/designers, $65.8M spent on software; specialized software tops money-makers (stealwhatworks, Sep 17 2026). Category-level demand VERIFIED; product-level est.",
+    "gap": 7,
+    "d_gap": "VERIFIED this run: paid incumbents $185-250/user/MO (cleanlist.ai Sep 10 2026; ovaledge.com Feb 5 2026; clearout.io) or $300-2000 per-service (datascopic.net). ONE partial free alternative (Datablist, 500 credits/YEAR - cleanlist.ai). No free full-capability cleaner found in 5 searches.",
+    "alt_price": 9,
+    "d_alt_price": "VERIFIED: $185-250/user/month SaaS pricing = ~$2200-3000/yr.",
+    "complaints": 8,
+    "d_complaints": "VERIFIED-prior-run (azr/BUFFER row 2, reddit pain quote) + high maintenance pricing signals; this run found no counter-evidence.",
+    "one_time_fit": 9,
+    "d_one_time_fit": "local-only utility per README; subscription overhead unjustifiable for a file tool.",
+    "build_days": 1,
+    "d_build_days": "ALREADY BUILT AND VERIFIED: product/csv-cleaner/, test_product.js green (row 22).",
+    "evidence": ["insightraider.com/en/answers/who-buys-digital-products-on-gumroad", "cleanlist.ai/learn/data-cleansing-software", "ovaledge.com/blog/data-cleaning-software", "stealwhatworks.com/blogs/news/gumroad-products-making-real-money-now"]
+  },
+  {
+    "id": "og-image-gen",
+    "demand": 6,
+    "d_demand": "UNVERIFIED est; social-card demand evident but diffuse.",
+    "gap": 1,
+    "d_gap": "VERIFIED this run: >=5 free tools/library (OGForge free API no keys, placid.app free tool, github fabian-hiller/og-img free OSS, vercel @vercel/og built-in, flaviocopes free in-browser). Rule REJECT.",
+    "alt_price": 4,
+    "d_alt_price": "many at $0.",
+    "complaints": 3,
+    "d_complaints": "UNVERIFIED est.",
+    "one_time_fit": 4,
+    "d_one_time_fit": "est.",
+    "build_days": 2,
+    "d_build_days": "est.",
+    "evidence": ["reddit.com/r/webdev OGForge thread", "placid.app/tools/free-open-graph-image-generator", "github.com/fabian-hiller/og-img", "vercel.com/docs/og-image-generation"]
+  }
+]

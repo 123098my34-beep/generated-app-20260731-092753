@@ -1,0 +1,6 @@
+{
+  "winner": "csv-cleaner",
+  "rejects": [
+    "og-image-gen"
+  ]
+}
